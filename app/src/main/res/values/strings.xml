@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">The Newshouse</string>
+    <string name="no_news">News not available!</string>
+    <string name="no_internet_connection">No Internet Connection</string>
+    <string name="settings_menu_item">Settings</string>
+    <string name="settings_title">NewsHouse Settings</string>
+    <string name="settings_min_magnitude_label">News Category</string>
+    <string name="settings_min_magnitude_key" translatable="false">query</string>
+    <string name="settings_min_magnitude_default" translatable="false">politics</string>
+</resources>

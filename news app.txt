@@ -1,0 +1,7 @@
+THE TIMES OF INDIA
+
+https://newsapi.org/v1/articles?source=the-times-of-india&sortBy=latest&apiKey=c409df1f83ae43c4bd2ccd66183ff259
+
+THE GUARDIAN
+
+http://content.guardianapis.com/search?q=india&order-by=newest&api-key=test&pageSize=30&show-fields=all&show-elements=image&show-tags=contributor

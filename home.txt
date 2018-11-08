@@ -1,0 +1,30 @@
+<ImageView
+        android:src="@drawable/guardian"
+        android:id="@+id/am_imageview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:scaleType="fitStart"
+        android:background="@android:color/black"
+        />
+    <ImageView
+        android:src="@drawable/times_of_india"
+        android:id="@+id/am_imageview_1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:scaleType="fitStart"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:background="@android:color/black"
+        android:layout_marginTop="190dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/white"
+        android:textSize="30sp"
+        android:text="Pick Your Newspaper"
+        android:gravity="center"
+        android:layout_below="@+id/am_imageview"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />

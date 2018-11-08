@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="image_dimensions">120dp</dimen>
+    <dimen name="text_dimensions">2dp</dimen>
+    <dimen name="text_dimensions_2">3dp</dimen>
+    <dimen name="text_dimensions_1">20dp</dimen>
+</resources>
